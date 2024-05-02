@@ -1,3 +1,4 @@
+# Write a Python function called max_num()to find the maximum of three numbers.
 def max_num(num1, num2, num3):
     # return the maximum of three numbers
     # Arguments:
